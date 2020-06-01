@@ -1,1 +1,1 @@
-# tej-self-site
+# add initial tej website files
